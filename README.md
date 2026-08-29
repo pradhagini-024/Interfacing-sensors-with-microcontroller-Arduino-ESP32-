@@ -1,24 +1,31 @@
 # Interfacing-sensors-with-microcontroller-Arduino-ESP32
 **Exp 1: Interfacing Temperature and Humidity Sensor with ESP32 Using Wokwi**
-Aim
+
+Aim:
+
 To interface a DHT22 temperature and humidity sensor with an ESP32 microcontroller using the Wokwi online simulator, measure the temperature and relative humidity, and display the measured values on the Serial Monitor.
-Apparatus / Software Required
+
+Apparatus / Software Required:
+
 Software / Online Tools
 •	Wokwi Online Simulator 
 •	Web browser 
 •	ESP32 simulation board 
 •	Arduino C/C++ program 
 •	DHT22 sensor model 
+
 Simulated Components
 •	ESP32 DevKit
 •	DHT22
 •	Jumper wires
 •	Serial Monitor
 
-
 Circuit Diagram: 
+
 Students shall design and simulate the circuit using the Wokwi online simulator. Take a clear screenshot of the completed circuit showing all the components and their connections, and include it in this section. The component names, pin connections, and ESP32 GPIO connections should be clearly visible in the screenshot.
+
 Procedure:
+
 Step-by-step operation
 •	ESP32 is powered. 
 •	ESP32 initializes the DHT22 sensor. 
@@ -28,7 +35,8 @@ Step-by-step operation
 •	The Arduino program converts the received data into temperature and humidity values. 
 •	The values are sent through UART/USB serial communication and appear on the Wokwi Serial Monitor.
 
-Simulation Procedure
+Simulation Procedure:
+
 Step 1 : Install Wokwi online simulator and Open 
 Step 2 : Create a new ESP32 project.
 Step 3 : Add ESP32 DevKit, DHT22
