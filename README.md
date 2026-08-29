@@ -40,5 +40,7 @@ Step 9 : Start Simulation
 Step 10 : Open the Serial Monitor and Observe the temperature and humidity values.
 
 Output:
+<img width="829" height="529" alt="image" src="https://github.com/user-attachments/assets/c6437f9d-f71c-4e46-acf6-1ba573461c3d" />
+
 Result:
 Thus, the DHT22 temperature and humidity sensor was successfully interfaced with the ESP32 microcontroller using the Wokwi online simulation platform. 
